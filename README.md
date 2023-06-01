@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-Final Year Student at DDIT,Nadiad<br>Proficient with APIs, Reactjs, Web Development and .NET Framework and Core<br>Currently learning more about Machine Learning and AI<br>Check out my website. 
+Final Year Student at DDIT,Nadiad<br>Proficient with APIs, Reactjs, Web Development and .NET Framework and Core<br>Currently learning more about Machine Learning and AI<br>Check out my website: https://svk04.github.io/ 
 
 
 ## 🌐 Socials:
