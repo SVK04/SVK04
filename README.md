@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Vaibhav Kaul</h1>
+
+
 # 💫 About Me:
 Final Year Student at DDIT,Nadiad<br>Proficient with APIs, Reactjs, Web Development and .NET Framework and Core<br>Currently learning more about Machine Learning and AI<br>Check out my website. 
 
