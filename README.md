@@ -23,7 +23,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Full Stack Projects**
+- 🔭 I’m currently working on **Society Sync**, **Ingest AI**, and **[WebMemoir](https://chromewebstore.google.com/detail/webmemoir/kfipipfcamkmcghbbaendjaohmlnfcmc)**
+- 👨‍💻 Check out my portfolio at **[vaibhav-kaul.web.app](https://vaibhav-kaul.web.app/)**
 - 🌱 I’m currently learning **Advanced Systems Design**
 - 💬 Ask me about **JavaScript, React, Node.js**
 - 📫 Reach me at: [**shivamkaul11@gmail.com**](mailto:shivamkaul11@gmail.com)
@@ -31,11 +32,37 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 🚀 Featured Projects
 
-<p align="center">
+| Project | Description |
+| :--- | :--- |
+| **[WebMemoir](https://chromewebstore.google.com/detail/webmemoir/kfipipfcamkmcghbbaendjaohmlnfcmc)** | A Chrome extension to capture and organize your web browsing memories. |
+| **[Portfolio Website](https://vaibhav-kaul.web.app/)** | My personal portfolio showcasing my projects, skills, and experience. |
+| **Ingest AI** | A lightweight, AI-first Node.js library for file ingestion and normalization. |
+| **Society Sync** | A platform for managing community events and interactions. |
+
+---
+
+### 🛠️ Tech Stack
+
+#### 👨‍💻 Languages
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,react,next,nodejs,express,python,cpp,cs,html,css,tailwind,postgres,docker,git,linux,postman,graphql" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,html,css" alt="Languages" />
+  </a>
+</p>
+
+#### 📚 Libraries & Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,tailwind,graphql" alt="Frameworks" />
+  </a>
+</p>
+
+#### 🔧 Tools & Platforms
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,linux,postman,postgres" alt="Tools" />
   </a>
 </p>
 
@@ -48,19 +75,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svk04&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" alt="Top Languages" height="150" />
 </div>
 
-<!-- Services currently down/unstable
-<div align="center">
-  <br />
-  <img src="https://streak-stats.demolab.com?user=svk04&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
 
 <div align="center">
-  <br />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=svk04&theme=tokyonight&no-frame=true&margin-w=4" alt="Trophies" />
-  </a>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=svk04&theme=tokyonight" alt="Vaibhav's Activity Graph" />
 </div>
--->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=svk04&label=Profile%20views&color=0e75b6&style=flat-square" alt="svk04" />
