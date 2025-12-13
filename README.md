@@ -48,6 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svk04&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" alt="Top Languages" height="150" />
 </div>
 
+<!-- Services currently down/unstable
 <div align="center">
   <br />
   <img src="https://streak-stats.demolab.com?user=svk04&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
@@ -59,6 +60,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=svk04&theme=tokyonight&no-frame=true&margin-w=4" alt="Trophies" />
   </a>
 </div>
+-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=svk04&label=Profile%20views&color=0e75b6&style=flat-square" alt="svk04" />
