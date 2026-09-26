@@ -69,12 +69,6 @@
 ---
 
 
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=svk04&theme=tokyonight" alt="Vaibhav's Activity Graph" />
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=svk04&label=Profile%20views&color=0e75b6&style=flat-square" alt="svk04" />
 </p>
