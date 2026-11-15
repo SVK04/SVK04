@@ -1,74 +1,39 @@
-<div align="center">
-  <h1 align="center">Hi 👋, I'm Vaibhav Kaul</h1>
-  <h3 align="center">Software Developer • Tech Enthusiast • Problem Solver</h3>
-</div>
+<a href="https://vaibhav-kaul.web.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png" />
+    <img alt="Vaibhav Kaul, backend engineer: I make slow backends fast." src="./assets/banner-light.png" width="100%" />
+  </picture>
+</a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning" alt="Typing SVG" />
-</p>
+### Backend engineer · Node.js, Python, PostgreSQL, AWS
 
-<p align="center">
-  <a href="https://vaibhav-kaul.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:shivamkaul11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/vaibhav-kaul-448889246/" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+I've spent 2+ years shipping delivery, e-commerce and real-time voice systems to production. Most of that code lives in private company repositories, so the evidence is summarised below and the full case studies, with architecture diagrams, are on my portfolio.
 
----
+**[Portfolio](https://vaibhav-kaul.web.app)** · [LinkedIn](https://www.linkedin.com/in/vaibhav-kaul-448889246/) · [Resume](https://vaibhav-kaul.web.app/resume.pdf) · [Email](mailto:shivamkaul11@gmail.com)
 
-### 👨‍💻 About Me
+## What I've shipped
 
-- 🔭 I’m currently working on **Society Sync**, **Ingest AI**, and **[WebMemoir](https://chromewebstore.google.com/detail/webmemoir/kfipipfcamkmcghbbaendjaohmlnfcmc)**
-- 👨‍💻 Check out my portfolio at **[vaibhav-kaul.web.app](https://vaibhav-kaul.web.app/)**
-- 🌱 I’m currently learning **Advanced Systems Design**
-- 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 Reach me at: [**shivamkaul11@gmail.com**](mailto:shivamkaul11@gmail.com)
-- ⚡ Fun fact: **I love solving complex problems with simple code.**
+| Result | Project | How |
+| :--- | :--- | :--- |
+| **~2s → ~200ms**<br>catalog APIs, 10× faster | Easy Cater | Removed redundant database calls from the request path. No new infrastructure. |
+| **Minutes → under 5s**<br>bulk imports, ~90% less time | ProtectALL | Validated CSV ingestion feeding one warranty-pricing core for Shopify, BigCommerce and WooCommerce. |
+| **Real-time voice**<br>two-way, over WebSockets | VoiceNow | VAD → STT → LLM → TTS streaming pipeline, RAG on PGVector, and a TypeScript SDK on NPM. |
+| **4 channels, 1 layer** | XUnified | WhatsApp, Facebook, Instagram and Telegram behind one channel layer, routed to GPT, Gemini or Dialogflow agents. |
 
----
+## Now
 
-### 🚀 Featured Projects
+Software Developer at **Easy Cater**: delivery backend, GIS routing, live driver tracking and the order state machine shared by the User, Merchant and Delivery apps.
 
-| Project | Description |
-| :--- | :--- |
-| **[WebMemoir](https://chromewebstore.google.com/detail/webmemoir/kfipipfcamkmcghbbaendjaohmlnfcmc)** | A Chrome extension to capture and organize your web browsing memories. |
-| **[Portfolio Website](https://vaibhav-kaul.web.app/)** | My personal portfolio showcasing my projects, skills, and experience. |
-| **Ingest AI** | A lightweight, AI-first Node.js library for file ingestion and normalization. |
-| **Society Sync** | A platform for managing community events and interactions. |
+## Side projects
 
----
+- **[WebMemoir](https://chromewebstore.google.com/detail/webmemoir/kfipipfcamkmcghbbaendjaohmlnfcmc)**: a Chrome extension to capture and organise your web browsing memories.
+- **[Customer data ingestion pipeline](https://github.com/SVK04/customer-data-ingestion-pipeline)**: Flask → FastAPI → PostgreSQL, with paginated fetching and idempotent upserts, all in Docker.
+- **Society Sync**: a multi-tenant society management platform with role-based access and an immutable billing ledger.
 
-### 🛠️ Tech Stack
+## Stack
 
-#### 👨‍💻 Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,html,css" alt="Languages" />
-  </a>
-</p>
-
-#### 📚 Libraries & Frameworks
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,tailwind,graphql" alt="Frameworks" />
-  </a>
-</p>
-
-#### 🔧 Tools & Platforms
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,linux,postman,postgres" alt="Tools" />
-  </a>
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=svk04&label=Profile%20views&color=0e75b6&style=flat-square" alt="svk04" />
-</p>
+- **Backend:** Node.js · TypeScript · Python · FastAPI · Express · REST · WebSockets
+- **Data:** PostgreSQL · PGVector · Redis · Prisma
+- **Cloud:** AWS Lambda · API Gateway · S3 · RDS · EventBridge · Docker · GitHub Actions
+- **AI:** LangChain · RAG · GPT-4o · Gemini · STT / TTS
+- **Frontend:** React · Next.js · Tailwind CSS
