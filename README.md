@@ -1,13 +1,13 @@
 <a href="https://vaibhav-kaul.web.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png" />
-    <img alt="Vaibhav Kaul, backend engineer: I make slow backends fast." src="./assets/banner-light.png" width="100%" />
+    <img alt="Vaibhav Kaul, full stack engineer with a backend focus: I make slow backends fast." src="./assets/banner-light.png" width="100%" />
   </picture>
 </a>
 
-### Backend engineer · Node.js, Python, PostgreSQL, AWS
+### Full stack engineer, backend focus · Node.js, Python, PostgreSQL, AWS, React
 
-I've spent 2+ years shipping delivery, e-commerce and real-time voice systems to production. Most of that code lives in private company repositories, so the evidence is summarised below and the full case studies, with architecture diagrams, are on my portfolio.
+I've spent 2+ years shipping delivery, e-commerce and real-time voice products to production, from React and Next.js front ends down to the APIs, databases and AWS infrastructure behind them, which is where I go deepest. Most of that code lives in private company repositories, so the evidence is summarised below and the full case studies, with architecture diagrams, are on my portfolio.
 
 **[Portfolio](https://vaibhav-kaul.web.app)** · [LinkedIn](https://www.linkedin.com/in/vaibhav-kaul-448889246/) · [Resume](https://vaibhav-kaul.web.app/resume.pdf) · [Email](mailto:shivamkaul11@gmail.com)
 
