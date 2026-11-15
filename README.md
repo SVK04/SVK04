@@ -17,7 +17,7 @@ I've spent 2+ years shipping delivery, e-commerce and real-time voice systems to
 | :--- | :--- | :--- |
 | **~2s → ~200ms**<br>catalog APIs, 10× faster | Easy Cater | Removed redundant database calls from the request path. No new infrastructure. |
 | **Minutes → under 5s**<br>bulk imports, ~90% less time | ProtectALL | Validated CSV ingestion feeding one warranty-pricing core for Shopify, BigCommerce and WooCommerce. |
-| **Real-time voice**<br>two-way, over WebSockets | VoiceNow | VAD → STT → LLM → TTS streaming pipeline, RAG on PGVector, and a TypeScript SDK on NPM. |
+| **Real-time voice**<br>two-way, over WebSockets | VoiceNow | VAD → STT → LLM → TTS streaming pipeline, RAG on PGVector, and a private TypeScript SDK for embedding it. |
 | **4 channels, 1 layer** | XUnified | WhatsApp, Facebook, Instagram and Telegram behind one channel layer, routed to GPT, Gemini or Dialogflow agents. |
 
 ## Now
